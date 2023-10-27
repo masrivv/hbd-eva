@@ -11,6 +11,7 @@ body{
     align-items: center;
     justify-content: center;
     background-color: black;
+    padding: 5px ;
 }
 .greetings{
     font-size: 6rem;
@@ -45,6 +46,7 @@ body{
 .description{
     font-size: 1.5rem;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .button a{
@@ -62,6 +64,7 @@ body{
     }
     .description{
         font-size: 1rem;
+        text-align: center;
     }
     
     .button a{
