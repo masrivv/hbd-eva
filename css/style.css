@@ -51,7 +51,7 @@ body{
 
 .button a{
     text-decoration: none;
-    font-size: 1rem;
+    font-size: 6rem;
     color: #111;
 }
 
@@ -68,6 +68,6 @@ body{
     }
     
     .button a{
-        font-size: 1rem;
+        font-size: 6rem;
     }
 }
